@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{B77559FB-01F4-4E01-8240-0082B375E5D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldTopStatements", "HelloWorldTopStatements\HelloWorldTopStatements.csproj", "{A2EED80D-E59A-4C26-B825-D1A495D9A074}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B77559FB-01F4-4E01-8240-0082B375E5D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B77559FB-01F4-4E01-8240-0082B375E5D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B77559FB-01F4-4E01-8240-0082B375E5D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2EED80D-E59A-4C26-B825-D1A495D9A074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2EED80D-E59A-4C26-B825-D1A495D9A074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2EED80D-E59A-4C26-B825-D1A495D9A074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2EED80D-E59A-4C26-B825-D1A495D9A074}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
